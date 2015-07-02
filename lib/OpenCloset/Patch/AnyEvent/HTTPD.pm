@@ -8,8 +8,8 @@ use warnings;
 our $VERSION = '0.002';
 
 {
-
-    package AnyEvent::HTTPD;
+    package
+        AnyEvent::HTTPD;
 
     use strict;
     use warnings;
